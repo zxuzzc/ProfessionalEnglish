@@ -1,6 +1,6 @@
 计算机专业英语
 =================
-README.md文件   这是一个通往第二个文件的链接 [SECOND.md](SECOND.md)  
+README.md文件   [这是一个通往另一个makedown文件的链接](SECOND.md)  
 -----------------
 * *斜体*
 + _斜体_  
@@ -34,6 +34,6 @@ ___粗斜体___
     alert('function');
 });
 ```
-这是一个通往外部网站的链接 [百度搜索](https://www.baidu.com)  
+[这是一个通往外部网站的链接](https://www.baidu.com)  
 图片显示
 <img src="img.jpg" width="50%">
